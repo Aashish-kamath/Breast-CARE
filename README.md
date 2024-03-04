@@ -4,7 +4,7 @@ Certainly! Below is a README template for your GitHub repository:
 
 # Breast Cancer Diagnosis Machine Learning Project
 
-![Breast Cancer]([https://images.unsplash.com/photo-1554129508-1ba440c78eaf](https://media.istockphoto.com/id/1217872606/vector/symbol-of-the-fight-against-breast-cancer-a-girl-with-cancer-vector-banner.jpg?s=612x612&w=0&k=20&c=IpR0hvrGAgiFYz1u_Mpgyr79AfAnbbUD-qP1T4tZEDs=))
+![Breast Cancer](https://cdn3.vectorstock.com/i/1000x1000/15/57/breast-cancer-woman-body-self-examination-vector-27581557.jpg)
 
 This repository contains a Python script that explores the Breast Cancer Wisconsin (Diagnostic) Dataset using machine learning techniques. The script performs data preprocessing, visualization, model training, and evaluation to predict breast cancer diagnosis outcomes.
 
