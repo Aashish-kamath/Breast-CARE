@@ -1,4 +1,4 @@
-/>Certainly! Below is a README template for your GitHub repository:
+Certainly! Below is a README template for your GitHub repository:
 
 ---
 
