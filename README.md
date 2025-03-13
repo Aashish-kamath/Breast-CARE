@@ -1,4 +1,4 @@
-<img width="535" alt="Screenshot 2025-03-13 at 9 21 09 PM" src="https://github.com/user-attachments/assets/dae16857-1ea0-4327-b77c-e913b8e57126" />Certainly! Below is a README template for your GitHub repository:
+/>Certainly! Below is a README template for your GitHub repository:
 
 ---
 
