@@ -1,10 +1,11 @@
-Certainly! Below is a README template for your GitHub repository:
+<img width="535" alt="Screenshot 2025-03-13 at 9 21 09 PM" src="https://github.com/user-attachments/assets/dae16857-1ea0-4327-b77c-e913b8e57126" />Certainly! Below is a README template for your GitHub repository:
 
 ---
 
 # Breast Cancer Diagnosis Machine Learning Project
 
-![Breast Cancer](https://www.google.com/https://img.freepik.com/premium-vector/breast-cancer-logo-vector-design-breast-cancer-awareness-ribbon-logo-vector-hand-icon-vector_911863-678.jpg)
+
+![Breast Cancer](<img width="535" alt="Screenshot 2025-03-13 at 9 21 09 PM" src="https://github.com/user-attachments/assets/7aee4318-cf80-40b4-86e2-8f83d2f2cc99" />)
 
 This repository contains a Python script that explores the Breast Cancer Wisconsin (Diagnostic) Dataset using machine learning techniques. The script performs data preprocessing, visualization, model training, and evaluation to predict breast cancer diagnosis outcomes.
 
